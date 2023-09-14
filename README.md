@@ -3,7 +3,7 @@
 
 <h2 align="center">Simple code of trojan in python :computer:</h2>
 
-<p align="center"><a href="https://github.com/Sasser1337/Ransomware/stargazers"><img src="https://img.shields.io/github/stars/Sasser1337/Trojan" alt="Stars Badge"/></a> <a align="center">
+<p align="center"><a href="https://github.com/Sasser1337/Trojan/stargazers"><img src="https://img.shields.io/github/stars/Sasser1337/Trojan" alt="Stars Badge"/></a> <a align="center">
 <a href="https://github.com/Sasser1337/awesome-github-profile-readme/network/members"><img src="https://img.shields.io/github/forks/Sasser1337/Trojan" alt="Forks Badge"/></a> <a align="center">
 <a href="https://github.com/Sasser1337/Trojan/blob/master/LICENSE"><img src="https://img.shields.io/github/license/Sasser1337/Trojan?color=2b9348" alt="License Badge"/></a> <a align="center">
 
